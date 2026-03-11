@@ -25,7 +25,7 @@ class TravelPlannerViewModel : ViewModel() {
     // your raw API key here like: apiKey = "AIzaSy..." to test it quickly.
     private val generativeModel = GenerativeModel(
         modelName = "gemini-2.5-flash",
-        apiKey = "AIzaSyAOZTFmw_HQNA4_eTToDUxpHgih3OZZZR8"
+        apiKey = "................"
     )
 
 
